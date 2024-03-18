@@ -1,0 +1,4 @@
+﻿  fatt.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\fattoriale\fatt.c(78,21): warning C4020: 'senrec': troppi parametri effettivi
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\fattoriale\fatt.c(94,10): warning C4244: 'inizializzazione': conversione da 'double' a 'int'. Possibile perdita di dati.
+  fattoriale.vcxproj -> C:\Users\moura\OneDrive - Unimore\Es str. e alg\fattoriale\x64\Debug\fattoriale.exe

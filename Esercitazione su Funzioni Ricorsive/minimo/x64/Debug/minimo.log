@@ -1,0 +1,4 @@
+﻿  minimo.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\minimo\minimo.c(7,3): warning C4033: 'Minimorec' deve restituire un valore
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\minimo\minimo.c(16): warning C4716: 'Minimorec': deve restituire un valore
+  minimo.vcxproj -> C:\Users\moura\OneDrive - Unimore\Es str. e alg\minimo\x64\Debug\minimo.exe
