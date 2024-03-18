@@ -1,0 +1,5 @@
+﻿  pancakesort.c
+C:\Users\moura\OneDrive\Documenti\es esame\panckacsort\pancakesort.c(19,13): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive\Documenti\es esame\panckacsort\pancakesort.c(35,22): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive\Documenti\es esame\panckacsort\x64\Debug\panckacsort.exe : fatal error LNK1120: 1 esterni non risolti

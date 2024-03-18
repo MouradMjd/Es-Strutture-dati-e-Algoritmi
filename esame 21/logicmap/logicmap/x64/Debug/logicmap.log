@@ -1,0 +1,4 @@
+﻿  logisticmap.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\logicmap\logicmap\logisticmap.c(40,8): warning C4101: 's2': variabile locale senza riferimenti
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\logicmap\logicmap\logisticmap.c(34,8): warning C4101: 's1': variabile locale senza riferimenti
+  logicmap.vcxproj -> C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\logicmap\x64\Debug\logicmap.exe

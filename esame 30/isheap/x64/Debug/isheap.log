@@ -1,0 +1,10 @@
+﻿  elemtype.c
+  isheap.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 30\isheap\isheap.c(16,20): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 30\isheap\isheap.c(17,21): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  minheap.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 30\isheap\minheap.c(40,30): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 30\isheap\minheap.c(100,39): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  Generazione del codice in corso...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 30\isheap\x64\Debug\isheap.exe : fatal error LNK1120: 1 esterni non risolti

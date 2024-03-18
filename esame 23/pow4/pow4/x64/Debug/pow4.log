@@ -1,0 +1,4 @@
+﻿  power4.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\pow4\pow4\power4.c(32,28): warning C4047: 'funzione': 'char **' differisce da 'char *' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\pow4\pow4\power4.c(32,26): warning C4024: 'strtol': tipi diversi tra il parametro 2 formale e quello effettivo
+  pow4.vcxproj -> C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\pow4\x64\Debug\pow4.exe

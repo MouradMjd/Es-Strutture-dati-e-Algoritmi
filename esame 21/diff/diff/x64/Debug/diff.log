@@ -1,0 +1,19 @@
+﻿  differenza.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\diff\diff\differenza.c(13,12): warning C4090: 'return': qualificatori 'const' differenti
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\diff\diff\differenza.c(17,12): warning C4090: 'return': qualificatori 'const' differenti
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\diff\diff\differenza.c(26,21): warning C4133: 'funzione': tipi non compatibili. Da 'Item *' a 'const char *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\diff\diff\differenza.c(27,21): warning C4133: 'funzione': tipi non compatibili. Da 'Item *' a 'const char *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\diff\diff\differenza.c(30,21): warning C4133: 'funzione': tipi non compatibili. Da 'int *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\diff\diff\differenza.c(30,25): warning C4133: 'funzione': tipi non compatibili. Da 'int *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\diff\diff\differenza.c(37,13): warning C4047: 'funzione': 'char *const ' differisce da 'char (*)[3]' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\diff\diff\differenza.c(37,11): warning C4024: 'sprintf': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\diff\diff\differenza.c(38,38): warning C4047: 'funzione': 'const ElemType *' differisce da 'char (*)[3]' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\diff\diff\differenza.c(38,36): warning C4024: 'ListInsertBack': tipi diversi tra il parametro 2 formale e quello effettivo
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\diff\diff\differenza.c(45,21): warning C4133: 'funzione': tipi non compatibili. Da 'Item *' a 'const char *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\diff\diff\differenza.c(48,14): warning C4047: 'funzione': 'char *const ' differisce da 'char (*)[3]' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\diff\diff\differenza.c(48,11): warning C4024: 'sprintf': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\diff\diff\differenza.c(49,40): warning C4047: 'funzione': 'const ElemType *' differisce da 'char (*)[3]' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\diff\diff\differenza.c(49,37): warning C4024: 'ListInsertBack': tipi diversi tra il parametro 2 formale e quello effettivo
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\diff\diff\differenza.c(19,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\diff\diff\differenza.c(20,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+  diff.vcxproj -> C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\diff\x64\Debug\diff.exe

@@ -1,0 +1,4 @@
+﻿  passwords.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 26\pass\pass\passwords.c(52,14): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 26\pass\x64\Debug\pass.exe : fatal error LNK1120: 1 esterni non risolti

@@ -1,0 +1,3 @@
+﻿  mirror.c
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\mirror\mirror.c(31): warning C4715: 'treeismirror': non tutti i percorsi di controllo restituiscono un valore
+  mirror.vcxproj -> C:\Users\moura\OneDrive\Documenti\programmi in C per info2\mirror\x64\Debug\mirror.exe

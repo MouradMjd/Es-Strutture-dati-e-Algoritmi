@@ -1,0 +1,9 @@
+﻿  isheap.c
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\isheap\isheap.c(24,52): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\isheap\isheap.c(25,53): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\isheap\isheap.c(26,44): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\isheap\isheap.c(26,84): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\isheap\isheap.c(30,53): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\isheap\isheap.c(31,53): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\isheap\x64\Debug\isheap.exe : fatal error LNK1120: 1 esterni non risolti

@@ -1,0 +1,4 @@
+﻿  stooge_sort.c
+C:\Users\moura\OneDrive\Documenti\es esame\stoorege_sort\stooge_sort.c(26,20): warning C4244: 'inizializzazione': conversione da 'double' a 'size_t'. Possibile perdita di dati.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive\Documenti\es esame\stoorege_sort\x64\Debug\stoorege_sort.exe : fatal error LNK1120: 1 esterni non risolti

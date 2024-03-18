@@ -1,0 +1,3 @@
+﻿  gola_cresta.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 24\golacresta\golacresta\gola_cresta.c(51,14): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  golacresta.vcxproj -> C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 24\golacresta\x64\Debug\golacresta.exe

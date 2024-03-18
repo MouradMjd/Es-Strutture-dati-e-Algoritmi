@@ -1,0 +1,7 @@
+﻿  mirror.c
+C:\Users\moura\OneDrive\Documenti\es esame\mirror4\mirror.c(22,21): warning C4133: 'funzione': tipi non compatibili. Da 'Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive\Documenti\es esame\mirror4\mirror.c(22,24): warning C4133: 'funzione': tipi non compatibili. Da 'Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive\Documenti\es esame\mirror4\mirror.c(29,19): warning C4133: 'funzione': tipi non compatibili. Da 'Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive\Documenti\es esame\mirror4\mirror.c(29,22): warning C4133: 'funzione': tipi non compatibili. Da 'Node *' a 'const ElemType *'
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive\Documenti\es esame\mirror4\x64\Debug\mirror4.exe : fatal error LNK1120: 1 esterni non risolti

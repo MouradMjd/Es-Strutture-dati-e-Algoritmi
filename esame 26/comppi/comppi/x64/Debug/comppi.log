@@ -1,0 +1,4 @@
+﻿  pi.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 26\comppi\comppi\pi.c(28,28): warning C4047: 'funzione': 'char **' differisce da 'char *' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 26\comppi\comppi\pi.c(28,26): warning C4024: 'strtol': tipi diversi tra il parametro 2 formale e quello effettivo
+  comppi.vcxproj -> C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 26\comppi\x64\Debug\comppi.exe

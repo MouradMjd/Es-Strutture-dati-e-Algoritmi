@@ -1,0 +1,2 @@
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive\Documenti\es esame\inverttree\x64\Debug\inverttree.exe : fatal error LNK1120: 1 esterni non risolti

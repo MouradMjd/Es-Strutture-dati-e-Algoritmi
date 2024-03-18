@@ -1,0 +1,5 @@
+﻿  insert.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\insert Bst\insert.c(16,22): warning C4133: 'funzione': tipi non compatibili. Da 'Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\insert Bst\insert.c(41,26): warning C4133: 'funzione': tipi non compatibili. Da 'Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\insert Bst\insert.c(36,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+  insert Bst.vcxproj -> C:\Users\moura\OneDrive - Unimore\Es str. e alg\insert Bst\x64\Debug\insert Bst.exe

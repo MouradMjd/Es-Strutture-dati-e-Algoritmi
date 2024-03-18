@@ -1,0 +1,9 @@
+﻿  cc.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 22\componenti conesse\componenti conesse\cc.c(32,14): warning C4133: 'funzione': tipi non compatibili. Da 'Item *' a 'ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 22\componenti conesse\componenti conesse\cc.c(32,17): warning C4090: 'funzione': qualificatori 'const' differenti
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 22\componenti conesse\componenti conesse\cc.c(39,14): warning C4133: 'funzione': tipi non compatibili. Da 'Item *' a 'ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 22\componenti conesse\componenti conesse\cc.c(39,17): warning C4090: 'funzione': qualificatori 'const' differenti
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 22\componenti conesse\componenti conesse\cc.c(44,15): warning C4133: 'funzione': tipi non compatibili. Da 'Item *' a 'ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 22\componenti conesse\componenti conesse\cc.c(44,18): warning C4090: 'funzione': qualificatori 'const' differenti
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 22\componenti conesse\componenti conesse\cc.c(29,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+  componenti conesse.vcxproj -> C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 22\componenti conesse\x64\Debug\componenti conesse.exe

@@ -1,0 +1,7 @@
+﻿  tree2bst.c
+C:\Users\moura\OneDrive\Documenti\es esame\tree_to_BST\tree2bst.c(13,23): warning C4133: 'funzione': tipi non compatibili. Da 'Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive\Documenti\es esame\tree_to_BST\tree2bst.c(23,23): warning C4133: 'funzione': tipi non compatibili. Da 'Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive\Documenti\es esame\tree_to_BST\tree2bst.c(47,21): warning C4090: 'funzione': qualificatori 'const' differenti
+C:\Users\moura\OneDrive\Documenti\es esame\tree_to_BST\tree2bst.c(51,21): warning C4090: 'funzione': qualificatori 'const' differenti
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive\Documenti\es esame\tree_to_BST\x64\Debug\tree_to_BST.exe : fatal error LNK1120: 1 esterni non risolti

@@ -1,0 +1,4 @@
+﻿  triangular.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\Tn\Tn\triangular.c(37,28): warning C4047: 'funzione': 'char **' differisce da 'char *' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\Tn\Tn\triangular.c(37,26): warning C4024: 'strtol': tipi diversi tra il parametro 2 formale e quello effettivo
+  Tn.vcxproj -> C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\Tn\x64\Debug\Tn.exe

@@ -1,0 +1,5 @@
+﻿  solar.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 29\camposolare\camposolare\solar.c(31,3): warning C4033: 'SolarCutrec' deve restituire un valore
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 29\camposolare\camposolare\solar.c(47): warning C4716: 'SolarCutrec': deve restituire un valore
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 29\camposolare\x64\Debug\camposolare.exe : fatal error LNK1120: 1 esterni non risolti

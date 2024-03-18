@@ -1,0 +1,8 @@
+﻿  monete.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\monete\monete\monete.c(13,3): warning C4033: 'CombinaMoneterec' deve restituire un valore
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\monete\monete\monete.c(29,3): warning C4033: 'CombinaMoneterec' deve restituire un valore
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\monete\monete\monete.c(39,14): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\monete\monete\monete.c(40,50): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\monete\monete\monete.c(46): warning C4716: 'CombinaMoneterec': deve restituire un valore
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\monete\x64\Debug\monete.exe : fatal error LNK1120: 1 esterni non risolti

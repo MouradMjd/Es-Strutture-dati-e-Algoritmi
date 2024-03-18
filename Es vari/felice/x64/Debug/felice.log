@@ -1,0 +1,3 @@
+﻿  happy_numbers.c
+C:\Users\moura\OneDrive\Documenti\es esame\felice\happy_numbers.c(16,13): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+  felice.vcxproj -> C:\Users\moura\OneDrive\Documenti\es esame\felice\x64\Debug\felice.exe

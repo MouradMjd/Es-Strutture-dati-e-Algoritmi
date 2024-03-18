@@ -1,0 +1,10 @@
+﻿  ancestor.c
+C:\Users\moura\OneDrive\Documenti\es esame\lowercommonancestor\ancestor.c(11,4): warning C4033: 'TreeContainsNode' deve restituire un valore
+C:\Users\moura\OneDrive\Documenti\es esame\lowercommonancestor\ancestor.c(13,3): warning C4033: 'TreeContainsNode' deve restituire un valore
+C:\Users\moura\OneDrive\Documenti\es esame\lowercommonancestor\ancestor.c(32,11): warning C4090: '=': qualificatori 'const' differenti
+C:\Users\moura\OneDrive\Documenti\es esame\lowercommonancestor\ancestor.c(37,3): warning C4033: 'LowestCommonAncestorrec' deve restituire un valore
+C:\Users\moura\OneDrive\Documenti\es esame\lowercommonancestor\ancestor.c(42,12): warning C4047: 'return': 'const Node *' differisce da 'Node **' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive\Documenti\es esame\lowercommonancestor\ancestor.c(46,1): warning C4047: 'inizializzazione': 'ElemType' differisce da 'void *' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive\Documenti\es esame\lowercommonancestor\ancestor.c(43): warning C4715: 'LowestCommonAncestorrec': non tutti i percorsi di controllo restituiscono un valore
+C:\Users\moura\OneDrive\Documenti\es esame\lowercommonancestor\ancestor.c(19): warning C4715: 'TreeContainsNode': non tutti i percorsi di controllo restituiscono un valore
+  lowercommonancestor.vcxproj -> C:\Users\moura\OneDrive\Documenti\es esame\lowercommonancestor\x64\Debug\lowercommonancestor.exe

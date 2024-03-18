@@ -1,0 +1,5 @@
+﻿  invert.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\invert_treeù\invert_treeù\invert.c(13,12): warning C4133: 'funzione': tipi non compatibili. Da 'Node *' a 'ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\invert_treeù\invert_treeù\invert.c(13,15): warning C4133: 'funzione': tipi non compatibili. Da 'Node *' a 'ElemType *'
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\invert_treeù\x64\Debug\invert_treeù.exe : fatal error LNK1120: 1 esterni non risolti

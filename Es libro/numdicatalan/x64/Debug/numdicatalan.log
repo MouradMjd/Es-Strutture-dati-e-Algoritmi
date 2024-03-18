@@ -1,0 +1,7 @@
+﻿  catalan.c
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\numdicatalan\catalan.c(13,23): warning C4018: '<': errata corrispondenza tra signed e unsigned
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\numdicatalan\catalan.c(38,9): warning C4477: 'printf': con la stringa di formato '%d' è necessario un argomento di tipo 'int', ma il tipo dell'argomento variadic 1 è '__int64'
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\numdicatalan\catalan.c(38,9): message : provare a usare '%lld' nella stringa di formato
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\numdicatalan\catalan.c(38,9): message : provare a usare '%Id' nella stringa di formato
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\numdicatalan\catalan.c(38,9): message : provare a usare '%I64d' nella stringa di formato
+  numdicatalan.vcxproj -> C:\Users\moura\OneDrive\Documenti\programmi in C per info2\numdicatalan\x64\Debug\numdicatalan.exe

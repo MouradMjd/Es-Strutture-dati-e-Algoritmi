@@ -1,0 +1,8 @@
+﻿  maxbin.c
+C:\Users\moura\OneDrive\Documenti\es esame\maxbintree\maxbin.c(12,10): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive\Documenti\es esame\maxbintree\maxbin.c(22,3): warning C4033: 'CreateMaxBinTree' deve restituire un valore
+C:\Users\moura\OneDrive\Documenti\es esame\maxbintree\maxbin.c(29,27): warning C4090: 'funzione': qualificatori 'const' differenti
+C:\Users\moura\OneDrive\Documenti\es esame\maxbintree\maxbin.c(31,29): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive\Documenti\es esame\maxbintree\maxbin.c(48): warning C4715: 'CreateMaxBinTree': non tutti i percorsi di controllo restituiscono un valore
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive\Documenti\es esame\maxbintree\x64\Debug\maxbintree.exe : fatal error LNK1120: 1 esterni non risolti

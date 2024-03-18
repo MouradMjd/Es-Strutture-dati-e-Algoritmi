@@ -1,0 +1,3 @@
+﻿  circle_sort.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 27\ciclesort\ciclesort\circle_sort.c(40,14): warning C4098: 'CircleSort': la funzione 'void' restituisce un valore
+  ciclesort.vcxproj -> C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 27\ciclesort\x64\Debug\ciclesort.exe

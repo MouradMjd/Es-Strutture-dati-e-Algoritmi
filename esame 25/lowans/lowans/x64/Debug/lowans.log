@@ -1,0 +1,25 @@
+﻿  ancestor.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\lowans\lowans\ancestor.c(14,19): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\lowans\lowans\ancestor.c(14,23): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\lowans\lowans\ancestor.c(14,51): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\lowans\lowans\ancestor.c(14,54): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\lowans\lowans\ancestor.c(18,19): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\lowans\lowans\ancestor.c(18,23): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\lowans\lowans\ancestor.c(18,46): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\lowans\lowans\ancestor.c(18,50): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\lowans\lowans\ancestor.c(22,19): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\lowans\lowans\ancestor.c(22,23): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\lowans\lowans\ancestor.c(22,53): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\lowans\lowans\ancestor.c(22,57): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\lowans\lowans\ancestor.c(26,19): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\lowans\lowans\ancestor.c(26,23): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\lowans\lowans\ancestor.c(26,47): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\lowans\lowans\ancestor.c(26,51): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\lowans\lowans\ancestor.c(46,41): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\lowans\lowans\ancestor.c(46,45): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\lowans\lowans\ancestor.c(50,13): warning C4090: '=': qualificatori 'const' differenti
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\lowans\lowans\ancestor.c(54,35): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\lowans\lowans\ancestor.c(54,38): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\lowans\lowans\ancestor.c(58,13): warning C4090: '=': qualificatori 'const' differenti
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\lowans\x64\Debug\lowans.exe : fatal error LNK1120: 1 esterni non risolti

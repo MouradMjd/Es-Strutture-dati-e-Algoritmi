@@ -1,0 +1,6 @@
+﻿  percorso_somma.c
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\percorso somma\percorso_somma.c(13,4): warning C4033: 'PercorsoSommarec' deve restituire un valore
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\percorso somma\percorso_somma.c(17,4): warning C4033: 'PercorsoSommarec' deve restituire un valore
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\percorso somma\percorso_somma.c(28): warning C4716: 'PercorsoSommarec': deve restituire un valore
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\percorso somma\x64\Debug\percorso somma.exe : fatal error LNK1120: 1 esterni non risolti

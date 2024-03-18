@@ -1,0 +1,7 @@
+﻿  sen_x.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 22\sin_x\sin_x\sen_x.c(28,28): warning C4047: 'funzione': 'char **' differisce da 'char *' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 22\sin_x\sin_x\sen_x.c(28,26): warning C4024: 'strtol': tipi diversi tra il parametro 2 formale e quello effettivo
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 22\sin_x\sin_x\sen_x.c(30,28): warning C4047: 'funzione': 'char **' differisce da 'char *' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 22\sin_x\sin_x\sen_x.c(30,26): warning C4024: 'strtol': tipi diversi tra il parametro 2 formale e quello effettivo
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 22\sin_x\sin_x\sen_x.c(38,27): warning C4020: 'sen': troppi parametri effettivi
+  sin_x.vcxproj -> C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 22\sin_x\x64\Debug\sin_x.exe

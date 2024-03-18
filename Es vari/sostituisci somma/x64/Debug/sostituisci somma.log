@@ -1,0 +1,4 @@
+﻿  sostituisci_somma.c
+C:\Users\moura\OneDrive\Documenti\es esame\sostituisci somma\sostituisci_somma.c(32,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive\Documenti\es esame\sostituisci somma\x64\Debug\sostituisci somma.exe : fatal error LNK1120: 1 esterni non risolti

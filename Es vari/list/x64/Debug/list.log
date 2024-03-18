@@ -1,0 +1,4 @@
+﻿  sum_dlist.c
+C:\Users\moura\OneDrive\Documenti\es esame\list\sum_dlist.c(13,13): warning C4090: 'return': qualificatori 'const' differenti
+C:\Users\moura\OneDrive\Documenti\es esame\list\sum_dlist.c(17,13): warning C4090: 'return': qualificatori 'const' differenti
+  list.vcxproj -> C:\Users\moura\OneDrive\Documenti\es esame\list\x64\Debug\list.exe

@@ -1,0 +1,5 @@
+﻿  stones.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\last_stone\last_stone\stones.c(13,15): warning C4013: 'realloc' non definita. Verrà considerata come esterna che restituisce un int.
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\last_stone\last_stone\stones.c(13,59): warning C4047: '=': 'ElemType *' differisce da 'int' nei livelli di riferimento indiretto
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 25\last_stone\x64\Debug\last_stone.exe : fatal error LNK1120: 1 esterni non risolti

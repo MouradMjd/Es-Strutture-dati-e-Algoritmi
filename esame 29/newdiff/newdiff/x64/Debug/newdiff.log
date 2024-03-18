@@ -1,0 +1,6 @@
+﻿  diff_dlist.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 29\newdiff\newdiff\diff_dlist.c(44,22): warning C4133: 'funzione': tipi non compatibili. Da 'Item *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 29\newdiff\newdiff\diff_dlist.c(44,27): warning C4133: 'funzione': tipi non compatibili. Da 'Item *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 29\newdiff\newdiff\diff_dlist.c(10,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 29\newdiff\newdiff\diff_dlist.c(11,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+  newdiff.vcxproj -> C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 29\newdiff\x64\Debug\newdiff.exe

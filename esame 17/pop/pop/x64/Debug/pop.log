@@ -1,0 +1,4 @@
+﻿  pop.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 17\pop\pop\pop.c(17,63): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 17\pop\x64\Debug\pop.exe : fatal error LNK1120: 1 esterni non risolti

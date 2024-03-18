@@ -1,0 +1,30 @@
+﻿  t9.c
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(20,18): warning C4047: '=': 'int' differisce da 'int *' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(23,3): warning C4033: 'ParoleT9rec' deve restituire un valore
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(59,20): warning C4047: 'funzione': 'char *' differisce da 'char (*)[10]' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(59,9): warning C4024: 'strcpy': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(60,20): warning C4047: 'funzione': 'char *' differisce da 'char (*)[10]' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(60,9): warning C4024: 'strcpy': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(61,20): warning C4047: 'funzione': 'char *' differisce da 'char (*)[10]' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(61,9): warning C4024: 'strcpy': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(62,20): warning C4047: 'funzione': 'char *' differisce da 'char (*)[10]' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(62,9): warning C4024: 'strcpy': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(63,20): warning C4047: 'funzione': 'char *' differisce da 'char (*)[10]' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(63,9): warning C4024: 'strcpy': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(64,20): warning C4047: 'funzione': 'char *' differisce da 'char (*)[10]' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(64,9): warning C4024: 'strcpy': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(65,20): warning C4047: 'funzione': 'char *' differisce da 'char (*)[10]' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(65,9): warning C4024: 'strcpy': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(66,20): warning C4047: 'funzione': 'char *' differisce da 'char (*)[10]' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(66,9): warning C4024: 'strcpy': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(67,20): warning C4047: 'funzione': 'char *' differisce da 'char (*)[10]' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(67,9): warning C4024: 'strcpy': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(68,20): warning C4047: 'funzione': 'char *' differisce da 'char (*)[10]' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(68,9): warning C4024: 'strcpy': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(69,20): warning C4047: 'funzione': 'char *' differisce da 'char (*)[10]' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(69,9): warning C4024: 'strcpy': tipi diversi tra il parametro 1 formale e quello effettivo
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(98,37): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(98,42): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(33): warning C4716: 'ParoleT9rec': deve restituire un valore
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\t9.c(103): warning C4715: 'ParoleT9': non tutti i percorsi di controllo restituiscono un valore
+  parole T9.vcxproj -> C:\Users\moura\OneDrive\Documenti\programmi in C per info2\parole T9\x64\Debug\parole T9.exe

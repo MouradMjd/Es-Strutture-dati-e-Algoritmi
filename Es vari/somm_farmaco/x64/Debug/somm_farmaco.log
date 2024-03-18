@@ -1,0 +1,3 @@
+﻿  concentrazione.c
+C:\Users\moura\OneDrive\Documenti\es esame\somm_farmaco\concentrazione.c(11,35): warning C4244: 'return': conversione da 'double' a 'float'. Possibile perdita di dati.
+  somm_farmaco.vcxproj -> C:\Users\moura\OneDrive\Documenti\es esame\somm_farmaco\x64\Debug\somm_farmaco.exe

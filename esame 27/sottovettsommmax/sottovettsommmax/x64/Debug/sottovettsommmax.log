@@ -1,0 +1,9 @@
+﻿  subarrays.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 27\sottovettsommmax\sottovettsommmax\subarrays.c(35,20): warning C4090: 'funzione': qualificatori 'const' differenti
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 27\sottovettsommmax\sottovettsommmax\subarrays.c(39,17): warning C4090: 'funzione': qualificatori 'const' differenti
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 27\sottovettsommmax\sottovettsommmax\subarrays.c(42,3): warning C4033: 'OptimalSubarrayrec' deve restituire un valore
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 27\sottovettsommmax\sottovettsommmax\subarrays.c(57,47): warning C4047: 'funzione': 'int *' differisce da 'int **' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 27\sottovettsommmax\sottovettsommmax\subarrays.c(57,42): warning C4024: 'OptimalSubarrayrec': tipi diversi tra il parametro 6 formale e quello effettivo
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 27\sottovettsommmax\sottovettsommmax\subarrays.c(60,13): warning C4047: 'return': 'int' differisce da 'int *' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 27\sottovettsommmax\sottovettsommmax\subarrays.c(50): warning C4716: 'OptimalSubarrayrec': deve restituire un valore
+  sottovettsommmax.vcxproj -> C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 27\sottovettsommmax\x64\Debug\sottovettsommmax.exe

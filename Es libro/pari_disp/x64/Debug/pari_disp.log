@@ -1,0 +1,9 @@
+﻿  paridispari.c
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\pari_disp\paridispari.c(22,33): warning C4090: '=': qualificatori 'const' differenti
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\pari_disp\paridispari.c(23,36): warning C4090: '=': qualificatori 'const' differenti
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\pari_disp\paridispari.c(27,39): warning C4090: '=': qualificatori 'const' differenti
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\pari_disp\paridispari.c(38,34): warning C4090: '=': qualificatori 'const' differenti
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\pari_disp\paridispari.c(39,36): warning C4090: '=': qualificatori 'const' differenti
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\pari_disp\paridispari.c(43,40): warning C4090: '=': qualificatori 'const' differenti
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\pari_disp\x64\Debug\pari_disp.exe : fatal error LNK1120: 1 esterni non risolti

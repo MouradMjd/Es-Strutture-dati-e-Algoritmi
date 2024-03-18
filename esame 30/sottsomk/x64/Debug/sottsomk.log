@@ -1,0 +1,6 @@
+﻿  sommak.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 30\sottsomk\sommak.c(14,20): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 30\sottsomk\sommak.c(26,14): warning C4477: 'printf': con la stringa di formato '%d' è necessario un argomento di tipo 'int', ma il tipo dell'argomento variadic 1 è 'size_t'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 30\sottsomk\sommak.c(26,14): message : provare a usare '%zd' nella stringa di formato
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 30\sottsomk\x64\Debug\sottsomk.exe : fatal error LNK1120: 1 esterni non risolti

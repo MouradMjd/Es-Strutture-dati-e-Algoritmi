@@ -1,0 +1,46 @@
+#include "reverse.h"
+
+int ListLength(Item* list) {
+	int count = 0;
+	Item* tmp = list;
+
+	while (tmp != NULL) {
+		count++;
+		tmp = tmp->next;
+	}
+
+	return count;
+}
+
+Item* Reverse(Item* list, int left) {
+	if (ListIsEmpty(list)) return NULL;
+
+	int length = ListLength(list);
+	if (left >= length) return list;
+
+	int offset = left;
+	Item* base = NULL;
+	Item* prev = NULL;
+	Item* curr = list;
+
+	while (curr != NULL) {
+		Item* next = curr->next;
+		if (offset <= 0) {
+			curr->next = prev;
+
+			prev = curr;
+		}
+		else {
+			offset--;
+			base = curr;
+		}
+
+		curr = next;
+	}
+
+	if (base != NULL) {
+		base->next = prev;
+	}
+
+	return left > 0 ? list : prev;
+}

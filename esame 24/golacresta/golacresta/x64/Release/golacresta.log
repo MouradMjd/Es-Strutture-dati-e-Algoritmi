@@ -1,0 +1,9 @@
+﻿  gola_cresta.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 24\golacresta\golacresta\gola_cresta.c(25,19): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 24\golacresta\golacresta\gola_cresta.c(45,14): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  Generazione codice in corso...
+  0 of 7 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generazione codice terminata
+  golacresta.vcxproj -> C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 24\golacresta\x64\Release\golacresta.exe

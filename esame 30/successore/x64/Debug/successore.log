@@ -1,0 +1,11 @@
+﻿  successore.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 30\successore\successore.c(10,3): warning C4033: 'Successorerec' deve restituire un valore
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 30\successore\successore.c(12,19): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 30\successore\successore.c(12,22): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 30\successore\successore.c(14,24): warning C4133: 'funzione': tipi non compatibili. Da 'Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 30\successore\successore.c(14,26): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 30\successore\successore.c(16,15): warning C4090: '=': qualificatori 'const' differenti
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 30\successore\successore.c(35,20): warning C4133: 'funzione': tipi non compatibili. Da 'Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 30\successore\successore.c(24): warning C4716: 'Successorerec': deve restituire un valore
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 30\successore\x64\Debug\successore.exe : fatal error LNK1120: 1 esterni non risolti

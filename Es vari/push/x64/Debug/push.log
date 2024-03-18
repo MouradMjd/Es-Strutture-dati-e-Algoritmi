@@ -1,0 +1,4 @@
+﻿  push.c
+C:\Users\moura\OneDrive\Documenti\es esame\push\push.c(10,27): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive\Documenti\es esame\push\x64\Debug\push.exe : fatal error LNK1120: 1 esterni non risolti

@@ -1,0 +1,3 @@
+﻿  reverse.c
+C:\Users\moura\OneDrive\Documenti\es esame\revers\reverse.c(18,33): warning C4090: '=': qualificatori 'const' differenti
+  revers.vcxproj -> C:\Users\moura\OneDrive\Documenti\es esame\revers\x64\Debug\revers.exe

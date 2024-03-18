@@ -1,0 +1,11 @@
+﻿  delete.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\delait\delete.c(11,20): warning C4133: 'funzione': tipi non compatibili. Da 'Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\delait\delete.c(11,32): warning C4133: 'funzione': tipi non compatibili. Da 'Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\delait\delete.c(24,12): warning C4133: 'funzione': tipi non compatibili. Da 'Node *' a 'ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\delait\delete.c(24,21): warning C4133: 'funzione': tipi non compatibili. Da 'Node *' a 'ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\delait\delete.c(43,20): warning C4133: 'funzione': tipi non compatibili. Da 'Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\delait\delete.c(52,20): warning C4133: 'funzione': tipi non compatibili. Da 'Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\delait\delete.c(37,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\delait\delete.c(28): warning C4715: 'DeleteBstNoderec': non tutti i percorsi di controllo restituiscono un valore
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\delait\x64\Debug\delait.exe : fatal error LNK1120: 1 esterni non risolti

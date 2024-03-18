@@ -1,0 +1,13 @@
+﻿  superstring.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\al\al\superstring.c(84,22): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\al\al\superstring.c(89,22): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\al\al\superstring.c(103,9): warning C4033: 'SolveSuperstringrec' deve restituire un valore
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\al\al\superstring.c(107,9): warning C4033: 'SolveSuperstringrec' deve restituire un valore
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\al\al\superstring.c(124,22): warning C4090: '=': qualificatori 'const' differenti
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\al\al\superstring.c(144,22): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\al\al\superstring.c(149,22): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\al\al\superstring.c(128,11): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\al\al\superstring.c(131,11): warning C4101: 'c': variabile locale senza riferimenti
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\al\al\superstring.c(117): warning C4716: 'SolveSuperstringrec': deve restituire un valore
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\al\x64\Debug\al.exe : fatal error LNK1120: 1 esterni non risolti

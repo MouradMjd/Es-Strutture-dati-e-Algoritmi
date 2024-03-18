@@ -1,0 +1,10 @@
+﻿  next_greater.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\nextgeater\nextgeater\next_greater.c(15,22): warning C4133: 'funzione': tipi non compatibili. Da 'Item *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\nextgeater\nextgeater\next_greater.c(15,29): warning C4133: 'funzione': tipi non compatibili. Da 'Item *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\nextgeater\nextgeater\next_greater.c(17,16): warning C4133: 'return': tipi non compatibili. Da 'Item *' a 'ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\nextgeater\nextgeater\next_greater.c(22,26): warning C4133: 'return': tipi non compatibili. Da 'Item *' a 'ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\nextgeater\nextgeater\next_greater.c(11,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\nextgeater\nextgeater\next_greater.c(41,26): warning C4133: '=': tipi non compatibili. Da 'ElemType *' a 'Item *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\nextgeater\nextgeater\next_greater.c(44,12): error C4146: l'operatore 'meno' unario è stato applicato al tipo unsigned. Il risultato resta unsigned
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\nextgeater\nextgeater\next_greater.c(54,41): warning C4133: 'funzione': tipi non compatibili. Da 'Item *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\nextgeater\nextgeater\next_greater.c(35,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti

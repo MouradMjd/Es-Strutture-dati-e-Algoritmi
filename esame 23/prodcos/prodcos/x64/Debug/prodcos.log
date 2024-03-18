@@ -1,0 +1,5 @@
+﻿  prodotto_costante.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\prodcos\prodcos\prodotto_costante.c(67,3): warning C4033: 'RisolviProdottorec' deve restituire un valore
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\prodcos\prodcos\prodotto_costante.c(90): warning C4716: 'RisolviProdottorec': deve restituire un valore
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 23\prodcos\x64\Debug\prodcos.exe : fatal error LNK1120: 1 esterni non risolti

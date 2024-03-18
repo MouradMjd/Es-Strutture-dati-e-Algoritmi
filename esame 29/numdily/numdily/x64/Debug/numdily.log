@@ -1,0 +1,3 @@
+﻿  lychrel.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 29\numdily\numdily\lychrel.c(23,13): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+  numdily.vcxproj -> C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 29\numdily\x64\Debug\numdily.exe

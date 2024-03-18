@@ -1,0 +1,4 @@
+﻿  subset_equal.c
+C:\Users\moura\OneDrive\Documenti\es esame\subset\subset_equal.c(19,13): warning C4477: 'printf': con la stringa di formato '%d' è necessario un argomento di tipo 'int', ma il tipo dell'argomento variadic 1 è 'size_t'
+C:\Users\moura\OneDrive\Documenti\es esame\subset\subset_equal.c(19,13): message : provare a usare '%zd' nella stringa di formato
+  subset.vcxproj -> C:\Users\moura\OneDrive\Documenti\es esame\subset\x64\Debug\subset.exe

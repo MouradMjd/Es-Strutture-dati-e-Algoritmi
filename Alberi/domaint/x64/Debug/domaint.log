@@ -1,0 +1,8 @@
+﻿  dominant.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\domaint\dominant.c(11,9): warning C4033: 'CountDominantrec' deve restituire un valore
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\domaint\dominant.c(20,26): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\domaint\dominant.c(15,1): warning C4133: 'inizializzazione': tipi non compatibili. Da 'Node *const ' a 'ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\domaint\dominant.c(16,1): warning C4133: 'inizializzazione': tipi non compatibili. Da 'Node *const ' a 'ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\domaint\dominant.c(28): warning C4716: 'CountDominantrec': deve restituire un valore
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\domaint\x64\Debug\domaint.exe : fatal error LNK1120: 1 esterni non risolti

@@ -1,0 +1,4 @@
+﻿  heapsort.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\heap_sort\heapsort.c(18,11): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\heap_sort\x64\Debug\heap_sort.exe : fatal error LNK1120: 1 esterni non risolti

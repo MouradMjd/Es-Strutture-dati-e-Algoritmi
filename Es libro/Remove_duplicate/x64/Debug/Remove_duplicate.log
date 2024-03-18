@@ -1,0 +1,7 @@
+﻿  remove.c
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\Remove_duplicate\remove.c(19,30): warning C4133: 'funzione': tipi non compatibili. Da 'Item *' a 'const ElemType *'
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\Remove_duplicate\remove.c(19,35): warning C4133: 'funzione': tipi non compatibili. Da 'Item *' a 'const ElemType *'
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\Remove_duplicate\remove.c(26,27): warning C4133: 'funzione': tipi non compatibili. Da 'Item *' a 'const ElemType *'
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\Remove_duplicate\remove.c(26,39): warning C4133: 'funzione': tipi non compatibili. Da 'Item *' a 'const ElemType *'
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\Remove_duplicate\remove.c(31,8): warning C4013: 'free' non definita. Verrà considerata come esterna che restituisce un int.
+  Remove_duplicate.vcxproj -> C:\Users\moura\OneDrive\Documenti\programmi in C per info2\Remove_duplicate\x64\Debug\Remove_duplicate.exe

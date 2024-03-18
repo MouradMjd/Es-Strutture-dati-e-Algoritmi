@@ -1,0 +1,3 @@
+﻿  pi.c
+C:\Users\moura\OneDrive\Documenti\es esame\compupi\pi.c(11,44): warning C4244: 'return': conversione da 'double' a 'float'. Possibile perdita di dati.
+  compupi.vcxproj -> C:\Users\moura\OneDrive\Documenti\es esame\compupi\x64\Debug\compupi.exe

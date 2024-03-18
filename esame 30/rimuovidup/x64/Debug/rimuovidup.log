@@ -1,0 +1,7 @@
+﻿  no_dups.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 30\rimuovidup\no_dups.c(10,20): warning C4133: 'funzione': tipi non compatibili. Da 'Item *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 30\rimuovidup\no_dups.c(28,38): warning C4133: 'funzione': tipi non compatibili. Da 'const Item *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 30\rimuovidup\no_dups.c(33,26): warning C4090: 'funzione': qualificatori 'const' differenti
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 30\rimuovidup\no_dups.c(35,39): warning C4133: 'funzione': tipi non compatibili. Da 'const Item *' a 'const ElemType *'
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 30\rimuovidup\x64\Debug\rimuovidup.exe : fatal error LNK1120: 1 esterni non risolti

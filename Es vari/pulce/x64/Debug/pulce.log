@@ -1,0 +1,10 @@
+﻿  pulce.c
+C:\Users\moura\OneDrive\Documenti\es esame\pulce\pulce.c(33,3): warning C4033: 'GuidaLaPulcerec' deve restituire un valore
+C:\Users\moura\OneDrive\Documenti\es esame\pulce\pulce.c(42,5): warning C4033: 'GuidaLaPulcerec' deve restituire un valore
+C:\Users\moura\OneDrive\Documenti\es esame\pulce\pulce.c(48,6): warning C4033: 'GuidaLaPulcerec' deve restituire un valore
+C:\Users\moura\OneDrive\Documenti\es esame\pulce\pulce.c(57,5): warning C4033: 'GuidaLaPulcerec' deve restituire un valore
+C:\Users\moura\OneDrive\Documenti\es esame\pulce\pulce.c(63,6): warning C4033: 'GuidaLaPulcerec' deve restituire un valore
+C:\Users\moura\OneDrive\Documenti\es esame\pulce\pulce.c(76,3): warning C4033: 'GuidaLaPulcerec' deve restituire un valore
+C:\Users\moura\OneDrive\Documenti\es esame\pulce\pulce.c(81,14): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive\Documenti\es esame\pulce\pulce.c(85): warning C4716: 'GuidaLaPulcerec': deve restituire un valore
+  pulce.vcxproj -> C:\Users\moura\OneDrive\Documenti\es esame\pulce\x64\Debug\pulce.exe

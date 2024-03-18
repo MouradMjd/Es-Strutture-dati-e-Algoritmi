@@ -1,0 +1,9 @@
+﻿  common_tail.c
+C:\Users\moura\OneDrive\Documenti\es esame\Common_tail\common_tail.c(19,23): warning C4133: 'funzione': tipi non compatibili. Da 'Item *' a 'const ElemType *'
+C:\Users\moura\OneDrive\Documenti\es esame\Common_tail\common_tail.c(19,29): warning C4133: 'funzione': tipi non compatibili. Da 'Item *' a 'const ElemType *'
+C:\Users\moura\OneDrive\Documenti\es esame\Common_tail\common_tail.c(64,23): warning C4133: 'funzione': tipi non compatibili. Da 'Item *' a 'const ElemType *'
+C:\Users\moura\OneDrive\Documenti\es esame\Common_tail\common_tail.c(64,29): warning C4133: 'funzione': tipi non compatibili. Da 'Item *' a 'const ElemType *'
+C:\Users\moura\OneDrive\Documenti\es esame\Common_tail\common_tail.c(35,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+C:\Users\moura\OneDrive\Documenti\es esame\Common_tail\common_tail.c(36,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive\Documenti\es esame\Common_tail\x64\Debug\Common_tail.exe : fatal error LNK1120: 1 esterni non risolti

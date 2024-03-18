@@ -1,0 +1,4 @@
+﻿  dividenconquer.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 24\dc\dc\dividenconquer.c(31,28): warning C4047: 'funzione': 'char **' differisce da 'char *' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 24\dc\dc\dividenconquer.c(31,26): warning C4024: 'strtol': tipi diversi tra il parametro 2 formale e quello effettivo
+  dc.vcxproj -> C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 24\dc\x64\Debug\dc.exe

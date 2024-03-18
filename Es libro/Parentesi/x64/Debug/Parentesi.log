@@ -1,0 +1,5 @@
+﻿  parentesi.c
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\Parentesi\parentesi.c(27,3): warning C4033: 'Parentesirec' deve restituire un valore
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\Parentesi\parentesi.c(39): warning C4716: 'Parentesirec': deve restituire un valore
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive\Documenti\programmi in C per info2\Parentesi\x64\Debug\Parentesi.exe : fatal error LNK1120: 1 esterni non risolti

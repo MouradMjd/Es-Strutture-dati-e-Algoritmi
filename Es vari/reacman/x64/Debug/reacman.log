@@ -1,0 +1,4 @@
+﻿  recaman.c
+C:\Users\moura\OneDrive\Documenti\es esame\reacman\recaman.c(19): warning C4715: 'Recamanrec': non tutti i percorsi di controllo restituiscono un valore
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive\Documenti\es esame\reacman\x64\Debug\reacman.exe : fatal error LNK1120: 1 esterni non risolti

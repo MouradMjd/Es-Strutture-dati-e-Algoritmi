@@ -1,0 +1,9 @@
+﻿  cugini.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 18\cugini\cugini\cugini.c(12,19): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 18\cugini\cugini\cugini.c(16,19): warning C4133: 'funzione': tipi non compatibili. Da 'const Node *' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 18\cugini\cugini\cugini.c(22,27): warning C4133: 'funzione': tipi non compatibili. Da 'Node *const ' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 18\cugini\cugini\cugini.c(22,61): warning C4133: 'funzione': tipi non compatibili. Da 'Node *const ' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 18\cugini\cugini\cugini.c(22,96): warning C4133: 'funzione': tipi non compatibili. Da 'Node *const ' a 'const ElemType *'
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 18\cugini\cugini\cugini.c(22,130): warning C4133: 'funzione': tipi non compatibili. Da 'Node *const ' a 'const ElemType *'
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 18\cugini\x64\Debug\cugini.exe : fatal error LNK1120: 1 esterni non risolti

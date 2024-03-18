@@ -1,0 +1,5 @@
+﻿  biscotti.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 17\biscotti\biscotti\biscotti.c(15,9): warning C4033: 'AssegnaBiscottirec' deve restituire un valore
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 17\biscotti\biscotti\biscotti.c(41): warning C4716: 'AssegnaBiscottirec': deve restituire un valore
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 17\biscotti\x64\Debug\biscotti.exe : fatal error LNK1120: 1 esterni non risolti

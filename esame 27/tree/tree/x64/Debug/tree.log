@@ -1,0 +1,6 @@
+﻿  elemtype.c
+  mergetree.c
+  tree.c
+  Generazione del codice in corso...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 27\tree\x64\Debug\tree.exe : fatal error LNK1120: 1 esterni non risolti

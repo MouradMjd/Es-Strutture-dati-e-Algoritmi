@@ -1,0 +1,4 @@
+﻿  t9.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 18\p9\p9\t9.c(42,24): warning C4133: 'funzione': tipi non compatibili. Da 'int *' a 'char *'
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 18\p9\x64\Debug\p9.exe : fatal error LNK1120: 1 esterni non risolti

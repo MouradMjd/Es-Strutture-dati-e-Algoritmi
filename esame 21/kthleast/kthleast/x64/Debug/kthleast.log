@@ -1,0 +1,5 @@
+﻿  kth_least.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\kthleast\kthleast\kth_least.c(19,64): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\kthleast\kthleast\kth_least.c(21,24): warning C4022: 'realloc': errore di corrispondenza del puntatore per il parametro effettivo 1
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 21\kthleast\x64\Debug\kthleast.exe : fatal error LNK1120: 1 esterni non risolti

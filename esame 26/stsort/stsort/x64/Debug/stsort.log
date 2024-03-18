@@ -1,0 +1,5 @@
+﻿  stooge_sort.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 26\stsort\stsort\stooge_sort.c(22,24): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 26\stsort\stsort\stooge_sort.c(26,30): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 26\stsort\x64\Debug\stsort.exe : fatal error LNK1120: 1 esterni non risolti

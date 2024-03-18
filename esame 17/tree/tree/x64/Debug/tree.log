@@ -1,0 +1,4 @@
+﻿  minbin.c
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 17\tree\tree\minbin.c(18,8): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 17\tree\tree\minbin.c(35,21): warning C4090: 'funzione': qualificatori 'const' differenti
+  tree.vcxproj -> C:\Users\moura\OneDrive - Unimore\Es str. e alg\esame 17\tree\x64\Debug\tree.exe
