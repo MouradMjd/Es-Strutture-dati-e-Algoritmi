@@ -1,0 +1,5 @@
+﻿  tiroallafune.c
+C:\Users\moura\OneDrive\Documenti\Programmi C\tiro_alla_fune\tiroallafune.c(88,73): warning C4047: 'funzione': 'int *' differisce da 'int **' nei livelli di riferimento indiretto
+C:\Users\moura\OneDrive\Documenti\Programmi C\tiro_alla_fune\tiroallafune.c(88,63): warning C4024: 'tiro_funerec': tipi diversi tra il parametro 8 formale e quello effettivo
+C:\Users\moura\OneDrive\Documenti\Programmi C\tiro_alla_fune\tiroallafune.c(86,1): warning C4047: 'inizializzazione': 'int *' differisce da 'int' nei livelli di riferimento indiretto
+  tiro_alla_fune.vcxproj -> C:\Users\moura\OneDrive\Documenti\Programmi C\tiro_alla_fune\x64\Debug\tiro_alla_fune.exe

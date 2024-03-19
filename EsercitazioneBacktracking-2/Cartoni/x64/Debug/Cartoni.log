@@ -1,0 +1,7 @@
+﻿  torrecartoni.c
+C:\Users\moura\OneDrive\Documenti\Programmi C\Cartoni\torrecartoni.c(36,23): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive\Documenti\Programmi C\Cartoni\torrecartoni.c(36,25): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\moura\OneDrive\Documenti\Programmi C\Cartoni\torrecartoni.c(40,11): warning C4018: '>': errata corrispondenza tra signed e unsigned
+C:\Users\moura\OneDrive\Documenti\Programmi C\Cartoni\torrecartoni.c(45,14): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\moura\OneDrive\Documenti\Programmi C\Cartoni\x64\Debug\Cartoni.exe : fatal error LNK1120: 1 esterni non risolti
