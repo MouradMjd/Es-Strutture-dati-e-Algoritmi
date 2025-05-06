@@ -1,5 +1,0 @@
-﻿  subarrays.c
-C:\Users\moura\OneDrive\Documenti\es esame\vett_som\subarrays.c(30,27): warning C4267: 'funzione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
-C:\Users\moura\OneDrive\Documenti\es esame\vett_som\subarrays.c(38,3): warning C4033: 'OptimalSubarrayrec' deve restituire un valore
-C:\Users\moura\OneDrive\Documenti\es esame\vett_som\subarrays.c(45): warning C4716: 'OptimalSubarrayrec': deve restituire un valore
-  vett_som.vcxproj -> C:\Users\moura\OneDrive\Documenti\es esame\vett_som\x64\Debug\vett_som.exe

@@ -1,7 +1,0 @@
-﻿  circle_sort.c
-C:\Users\moura\OneDrive\Documenti\es esame\riordina\circle_sort.c(5,10): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
-C:\Users\moura\OneDrive\Documenti\es esame\riordina\circle_sort.c(7,16): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
-C:\Users\moura\OneDrive\Documenti\es esame\riordina\circle_sort.c(32,11): warning C4098: 'CircleSort': la funzione 'void' restituisce un valore
-C:\Users\moura\OneDrive\Documenti\es esame\riordina\circle_sort.c(37,21): error C2296: '||': non valido perché l'operando sinistro contiene il tipo 'void'
-C:\Users\moura\OneDrive\Documenti\es esame\riordina\circle_sort.c(37,21): error C2297: '||': non valido perché l'operando destro contiene il tipo 'void'
-C:\Users\moura\OneDrive\Documenti\es esame\riordina\circle_sort.c(36,17): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.

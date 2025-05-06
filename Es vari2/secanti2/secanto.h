@@ -1,0 +1,11 @@
+#if !defined SEC_H
+#define SEC_H
+
+typedef struct {
+	int* coeff;
+	size_t size;
+}Polinomio;
+extern double secanti(const Polinomio* p, double x0, double x1, double t, int max_iter);
+
+
+#endif // !defined SEC_H

@@ -1,6 +1,0 @@
-﻿  check_sum_n.c
-C:\Users\moura\OneDrive\Documenti\es esame\check_sum\check_sum_n.c(28,3): warning C4033: 'CheckSumNb' deve restituire un valore
-C:\Users\moura\OneDrive\Documenti\es esame\check_sum\check_sum_n.c(46,1): warning C4090: 'inizializzazione': qualificatori 'const' differenti
-C:\Users\moura\OneDrive\Documenti\es esame\check_sum\check_sum_n.c(42): warning C4715: 'CheckSumNb': non tutti i percorsi di controllo restituiscono un valore
-MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
-C:\Users\moura\OneDrive\Documenti\es esame\check_sum\x64\Debug\check_sum.exe : fatal error LNK1120: 1 esterni non risolti

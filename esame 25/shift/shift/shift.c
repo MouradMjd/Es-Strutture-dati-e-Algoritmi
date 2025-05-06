@@ -75,6 +75,6 @@ void main(void)
 		l = ListInsertBack(l, &s[i]);
 	}
 
-	l = ShiftN(l, 0);
+	l = ShiftN(l, 6);
 }
 

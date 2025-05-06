@@ -64,7 +64,7 @@ double senrec(double x, int i)
 	}
 	double n = pow(-1, i)* pow(x, 2 * i + 1);
 	double d = fattoriale((2 * i) + 1);
-	return  (n/d)+senrec(x, i - 1);
+	return  senrec(x, i - 1)+(n/d);
 
 }
 

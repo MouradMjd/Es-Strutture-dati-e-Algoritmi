@@ -1,4 +1,0 @@
-﻿  rotate.c
-C:\Users\moura\OneDrive\Documenti\es esame\rorarte\rotate.c(20,23): warning C4047: '==': 'int' differisce da 'void *' nei livelli di riferimento indiretto
-MSVCRTD.lib(exe_main.obj) : error LNK2019: riferimento al simbolo esterno main non risolto nella funzione "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
-C:\Users\moura\OneDrive\Documenti\es esame\rorarte\x64\Debug\rorarte.exe : fatal error LNK1120: 1 esterni non risolti
