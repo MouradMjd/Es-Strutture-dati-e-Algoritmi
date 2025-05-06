@@ -1,0 +1,59 @@
+# Build results
+*.obj
+*.exe
+*.ilk
+*.log
+*.pdb
+*.ipdb
+*.iobj
+*.pch
+*.idb
+*.res
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.bak
+
+# Precompiled headers
+*.gch
+
+# Visual Studio folders
+.vs/
+Debug/
+Release/
+x64/
+x86/
+ipch/
+*.VC.db
+*.VC.opendb
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sdf
+*.opensdf
+*.cache
+*.ncb
+
+# CMake (if used)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Logs
+*.log
+
+# Backup files
+*~
+*.swp
+*.swn
+*.swo
+*.old
+
+# Optional: ignore project-specific binaries (change as needed)
+bin/
+build/
+out/
